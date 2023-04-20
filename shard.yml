@@ -1,0 +1,14 @@
+name: muffin
+version: 0.1.0
+
+authors:
+  - perfecto25 <mike.reider@gmail.com>
+
+targets:
+  muffin:
+    main: src/muffin.cr
+
+
+crystal: 1.7.1
+
+license: MIT
